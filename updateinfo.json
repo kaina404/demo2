@@ -1,0 +1,36 @@
+{
+  "ios": {
+    "code": 1,
+    "showDialog":false,
+    "showIcon":false,
+    "name": "0.2.0",
+    "filename": "11",
+    "downloadUrl": "",
+    "openUrl": "",
+    "time": 1233,
+    "des": "升级信息",
+    "title":"Update",
+    "tilteColor":"#000000",
+    "size": 0,
+    "md5": "",
+    "force": false,
+    "showShareDialog":true
+  },
+  "android": {
+    "code": 1,
+    "showDialog":true,
+    "showIcon":true,
+    "name": "0.2.0",
+    "filename": "11",
+    "downloadUrl": "",
+    "openUrl": "https://github.com",
+    "time": 134,
+    "des": "升级信息",
+    "tilteColor":"#e2233e",
+    "title":"Android Update",
+    "size": 0,
+    "md5": "",
+    "force": false,
+     "showShareDialog":true
+  }
+}
